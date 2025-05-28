@@ -91,23 +91,22 @@ Me chamo Guilherme Poit Vasconcelos, tenho 20 anos e atualmente resido na regiã
 
 ### 📊 Estatísticas
 
-<p>
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+
   <img 
-    align="left" 
     alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=GPVasconcelos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api?username=GPVasconcelos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GPVasconcelos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    alt="Top Langs" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GPVasconcelos&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=9"
   />
 
-</p>
+</div>
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GPVasconcelos/GPVasconcelos/output/github-contribution-grid-snake-dark.svg">
